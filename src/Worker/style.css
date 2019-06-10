@@ -1,0 +1,7 @@
+.worker {
+  border: 1px dashed black;
+  padding: 0 1em;
+  margin-top: 1em;
+  margin-right: 1em;
+  cursor: grab;
+}
